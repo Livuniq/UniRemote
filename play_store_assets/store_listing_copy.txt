@@ -1,0 +1,52 @@
+========================================================
+   UniRemote - Google Play Store Listing Copy & Info
+========================================================
+
+1. APP TITLE (Max 30 characters):
+UniRemote - Universal TV Remote
+
+2. SHORT DESCRIPTION (Max 80 characters):
+Universal TV Remote for Smart TV (Wi-Fi) and Non-Smart TV (Infrared IR Blaster).
+
+3. FULL DESCRIPTION (Max 4000 characters):
+UniRemote is a modern, fast, and reliable universal TV remote control app that lets you control your television directly from your Android phone. 
+
+Whether your TV is a modern Smart TV or a classic TV with an infrared sensor, UniRemote provides seamless control using both Wi-Fi and built-in Infrared (IR Blaster) technology.
+
+★ KEY FEATURES:
+• Dual-Mode Control: Supports both Wi-Fi Smart TV control and Infrared (IR Blaster) hardware transmission.
+• Smart TV Auto-Scan: Automatically discovers Smart TVs connected to your local Wi-Fi network.
+• Android TV Remote Protocol: Direct TLS-encrypted connection with fast key response for Android TVs (Toshiba, Hisense, Sony, TCL, Mi, etc.).
+• Pre-Configured Multi-Brand IR Library:
+  - Toshiba TV (CT-8560 Smart / CT-90325 Regza profiles)
+  - Samsung TV
+  - LG TV
+  - Sony TV (SIRC 40 kHz protocol)
+  - Mi / Xiaomi TV
+  - TCL / Thomson TV
+  - Panasonic TV
+  - Roku TV (Wi-Fi ECP protocol)
+• Tactile Remote Experience: Skeuomorphic remote design with haptic click vibration feedback.
+• Complete Control: Power ON/OFF, D-Pad navigation, Volume Rocker, Channel Rocker, Input/AV Switch, Mute, Home, Back, and 0-9 Keypad.
+• Wake-on-LAN (WoL): Turn on supported sleeping TVs over local Wi-Fi.
+
+★ HOW TO USE:
+1. Wi-Fi Smart TV Mode:
+   - Ensure your phone and Smart TV are connected to the same Wi-Fi network.
+   - Tap "Auto Scan" or select your TV.
+   - For Android TVs, enter the 6-character code shown on your TV screen once to pair.
+2. Infrared (IR) Mode:
+   - Requires an Android phone with a built-in IR blaster.
+   - Select your TV brand and point the phone towards the TV.
+
+★ DISCLAIMER:
+UniRemote is an independent universal remote control application. It is not affiliated with, endorsed by, or sponsored by Toshiba, Samsung, LG, Sony, Roku, Xiaomi, TCL, Panasonic, or any other trademark owners. All brand names, logos, and product trademarks mentioned belong to their respective owners.
+
+--------------------------------------------------------
+4. KEYSTORE SIGNING DETAILS (Keep Safe!):
+- Keystore File: uniremote-release.jks
+- Keystore Password: uniremote2026
+- Key Alias: uniremote
+- Key Password: uniremote2026
+- Algorithm: 2048-bit RSA (valid for 10,000 days)
+--------------------------------------------------------
